@@ -5,14 +5,17 @@ Fork and clone
 
 ## For the DRF:
 create a virtual environment
+
   ``` python -m virtualenv your_env_name```
  
 Activate your virtual environment
-  ``` cd your_env_name/scripts
-      activate
-  ```
+
+  ``` cd your_env_name/scripts ```
+    ```activate ```
+
    
-Install all requirement
+Install all requirement:
+
   ``` pip install -r requirements.txt ```
   
   For authentication tokens, JWt is used.
@@ -22,10 +25,12 @@ Install all requirement
  ### For the react frontend
  Created using yarn
  
- Install all dependencies
+ Install all dependencies:
+ 
   ``` yarn install ```
   
   Material Ui is used for the styling
+  
   I used axios to fetch data. 
   
   
