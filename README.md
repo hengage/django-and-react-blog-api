@@ -5,17 +5,15 @@ Fork and clone
 
 ## For the DRF:
 create a virtual environment
-  ``` python -m virtualenv your_env_name
-  ```
+  ``` python -m virtualenv your_env_name```
  
 Activate your virtual environment
   ``` cd your_env_name/scripts
       activate
-   ```
+  ```
    
 Install all requirement
-  ``` pip install -r requirements.txt
-  ```
+  ``` pip install -r requirements.txt ```
   
   For authentication tokens, JWt is used.
   The custom apps are located in a custom "apps" folder, for proper app organisation.
@@ -25,10 +23,10 @@ Install all requirement
  Created using yarn
  
  Install all dependencies
-  ``` yarn install
-  ```
+  ``` yarn install ```
   
   Material Ui is used for the styling
+  I used axios to fetch data. 
   
   
       
